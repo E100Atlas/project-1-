@@ -18,7 +18,7 @@ I’ll be experimenting with:
 
 ## ⚙️ Features
 
-✅ Beginner-friendly structure  
+
 ✅ Clean and simple Markdown format  
 ✅ Example files to practice commits and pushes  
 ✅ Easy to extend with new features
